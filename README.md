@@ -29,3 +29,5 @@ The main branch is the default development branch. Depending on the Git settings
 
 ###    h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
 It's best practice to make changes in a separate branch and use pull requests to merge them into main branch. this allows codes to be reviewed/discussed before approving before merging into main branch. reduces risk and allows increment changes 
+
+Attempt #2
